@@ -1,0 +1,6 @@
+C:\Users\ckat.DA140340004239A.000\Desktop\VSProjects\e-parastatiko_V3.2_VS2015\e-Parastatiko\number2textlib\bin\Debug\number2textlib.dll
+C:\Users\ckat.DA140340004239A.000\Desktop\VSProjects\e-parastatiko_V3.2_VS2015\e-Parastatiko\number2textlib\bin\Debug\number2textlib.pdb
+C:\Users\ckat.DA140340004239A.000\Desktop\VSProjects\e-parastatiko_V3.2_VS2015\e-Parastatiko\number2textlib\obj\Debug\number2textlib.csprojResolveAssemblyReference.cache
+C:\Users\ckat.DA140340004239A.000\Desktop\VSProjects\e-parastatiko_V3.2_VS2015\e-Parastatiko\number2textlib\obj\Debug\number2textlib.csproj.CoreCompileInputs.cache
+C:\Users\ckat.DA140340004239A.000\Desktop\VSProjects\e-parastatiko_V3.2_VS2015\e-Parastatiko\number2textlib\obj\Debug\number2textlib.dll
+C:\Users\ckat.DA140340004239A.000\Desktop\VSProjects\e-parastatiko_V3.2_VS2015\e-Parastatiko\number2textlib\obj\Debug\number2textlib.pdb

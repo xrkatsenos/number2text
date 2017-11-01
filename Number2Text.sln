@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number2textlib", "number2textlib\number2textlib.csproj", "{7314DF88-9F89-4A6D-84E6-82FDBE245E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number2Text_TestingApp", "WindowsFormsApp1\Number2Text_TestingApp.csproj", "{027391CD-0D3F-4B44-8917-81AAB63D84F0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7314DF88-9F89-4A6D-84E6-82FDBE245E0D} = {7314DF88-9F89-4A6D-84E6-82FDBE245E0D}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7314DF88-9F89-4A6D-84E6-82FDBE245E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7314DF88-9F89-4A6D-84E6-82FDBE245E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7314DF88-9F89-4A6D-84E6-82FDBE245E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7314DF88-9F89-4A6D-84E6-82FDBE245E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027391CD-0D3F-4B44-8917-81AAB63D84F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027391CD-0D3F-4B44-8917-81AAB63D84F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027391CD-0D3F-4B44-8917-81AAB63D84F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027391CD-0D3F-4B44-8917-81AAB63D84F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FD14EB3-243C-4957-A1C8-A0DD86394661}
+	EndGlobalSection
+EndGlobal
